@@ -1,0 +1,8 @@
+﻿  cupMediaCtrl.cpp
+  HydrusRemoteTagger.cpp
+  wxImagePanel.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 189 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HydrusRemoteTagger.vcxproj -> C:\Users\neo.nemeth\source\repos\HydrusRemoteTagger\x64\Release\HydrusRemoteTagger.exe
